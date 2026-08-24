@@ -1,4 +1,4 @@
-![Framily Banner](framily-banner.png)
+![Framily Banner](framily-banner_schmal.png)
 # Welcome to FRAMily
 
 ### The International FRAM Community
