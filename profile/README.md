@@ -1,3 +1,4 @@
+framily-banner.png
 # Welcome to FRAMily
 
 ### The International FRAM Community
