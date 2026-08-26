@@ -67,7 +67,7 @@ Learn more in the [FRAMily Community repository](https://github.com/FRAMily-Comm
 
 We welcome researchers, practitioners, educators, developers, and students interested in understanding complex socio-technical systems and strengthening resilient performance.
 
-## Stay Connected
+### Stay Connected
 
 Receive the **FRAMily Community Update** approximately every two months, together with occasional important announcements.
 
@@ -98,9 +98,11 @@ Participation is voluntary, and you may withdraw your consent and unsubscribe at
 [FRAMILY Community Channel](https://www.youtube.com/@framily-community)
 
 💬 **Community Discussions**
+
 https://github.com/FRAMily-Community/framily-community/discussions
 
 📧 **FRAMily Community Update**
+
 [Subscribe to the mailing list](https://survey.lfe.mw.tum.de/index.php/416789?lang=en)
 
 ---
