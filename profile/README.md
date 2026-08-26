@@ -3,7 +3,7 @@
 
 ### The International FRAM Community
 
-**Connecting People. Navigating Complexity. Building Resilience.**
+**Navigating Complexity. Building Resilience. Connecting People.**
 
 FRAMily is an international community of researchers, practitioners, 
 educators, and students interested in the Functional Resonance Analysis 
@@ -22,6 +22,11 @@ education, and practice.
 | 🎓 [FRAM Learning Material](https://github.com/FRAMily-Community/fram-learning-material) | Educational resources, tutorials, exercises, and teaching materials for learning and teaching FRAM. |
 | 💻 [FRAM Software](https://github.com/FRAMily-Community/fram-software) | Software tools, applications, documentation, and digital resources supporting FRAM research, education, and practice. |
 | 📚 [FRAM Resource Library](https://github.com/FRAMily-Community/fram-resource-library) | Curated collection of publications, case studies, references, and community resources related to FRAM and resilience engineering. |
+
+## About FRAM
+The FRAM, developed by Erik Hollnagel, is a systems-based modelling and analysis approach designed to understand the behaviour of complex socio-technical systems. Rather than focusing on failures, errors, or linear cause–effect chains, FRAM examines how everyday work is actually performed ("Work-as-Done") and how variability in normal performance can interact across system functions to produce both successful and unsuccessful outcomes. 
+FRAM is founded on four core principles: the equivalence of successes and failures, the inevitability of approximate adjustments, the emergence of system behaviour, and functional resonance. The method represents systems as interconnected functions whose interactions and dependencies shape overall system performance. By modelling these relationships, FRAM supports the analysis, design, and improvement of complex systems in domains such as healthcare, transportation, energy, manufacturing, software engineering, and organisational safety. 
+Originally introduced in FRAM: The Functional Resonance Analysis Method – Modelling Complex SocioTechnical Systems (Hollnagel, 2012), the method has become one of the most widely applied approaches within Resilience Engineering and Safety-II research.
 
 ## Join the Conversation
 
@@ -65,4 +70,4 @@ We welcome researchers, practitioners, educators, developers, and students inter
 
 ---
 
-**Connecting People. Navigating Complexity. Building Resilience.**
+**Navigating Complexity. Building Resilience. Connecting People.**
