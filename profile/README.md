@@ -67,6 +67,25 @@ Learn more in the [FRAMily Community repository](https://github.com/FRAMily-Comm
 
 We welcome researchers, practitioners, educators, developers, and students interested in understanding complex socio-technical systems and strengthening resilient performance.
 
+## Stay Connected
+
+Receive the **FRAMily Community Update** approximately every two months, together with occasional important announcements.
+
+Updates may include:
+
+- FRAMily Meetings
+- FRAM Fridays
+- FRAM Summer School
+- New models and case studies
+- Learning materials and educational resources
+- Software and tools
+- Videos and publications
+- Research and collaboration opportunities
+
+📧 [Subscribe to the FRAMily Community Update](https://survey.lfe.mw.tum.de/index.php/416789?lang=en)
+
+Participation is voluntary, and you may withdraw your consent and unsubscribe at any time.
+
 ### Connect with us
 
 🌐 **Website**  
@@ -77,6 +96,12 @@ We welcome researchers, practitioners, educators, developers, and students inter
 
 🎥 **YouTube**  
 [FRAMILY Community Channel](https://www.youtube.com/@framily-community)
+
+💬 **Community Discussions**
+https://github.com/FRAMily-Community/framily-community/discussions
+
+📧 **FRAMily Community Update**
+[Subscribe to the mailing list](https://survey.lfe.mw.tum.de/index.php/416789?lang=en)
 
 ---
 
