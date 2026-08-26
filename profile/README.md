@@ -46,12 +46,20 @@ Discussion categories include:
 
 ## Community activities
 
-- FRAMily Meetings
-- FRAM Fridays
-- FRAM Summer School
+- **FRAMily Meetings**  
+  Annual community meetings for research exchange, practical applications, software developments, workshops, and collaboration.
+
+- **FRAM Fridays**  
+  Bimonthly online sessions for invited talks, emerging topics, informal discussion, and community exchange.
+
+- **FRAM Summer School**  
+  Annual event as structured education and hands-on training in FRAM and the modelling of complex socio-technical systems.
+
 - Research and practice collaborations
 - Software and model development
 - Open educational resources
+
+Learn more in the [FRAMily Community repository](https://github.com/FRAMily-Community/framily-community).
 
 ## Join the FRAMily
 
