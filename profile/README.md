@@ -95,15 +95,13 @@ Participation is voluntary, and you may withdraw your consent and unsubscribe at
 [FRAMily | The International FRAM Community](https://www.linkedin.com/company/framily-community/about/?viewAsMember=true)
 
 🎥 **YouTube**  
-[FRAMILY Community Channel](https://www.youtube.com/@framily-community)
+[FRAMily Community Channel](https://www.youtube.com/@framily-community)
 
-💬 **Community Discussions**
+💬 **Community Discussions**  
+[Join the FRAMily Community Discussions](https://github.com/FRAMily-Community/framily-community/discussions)
 
-https://github.com/FRAMily-Community/framily-community/discussions
-
-📧 **FRAMily Community Update**
-
-[Subscribe to the mailing list](https://survey.lfe.mw.tum.de/index.php/416789?lang=en)
+📧 **FRAMily Community Update**  
+[Subscribe to the FRAMily Community Update](https://survey.lfe.mw.tum.de/index.php/416789?lang=en)
 
 ---
 
