@@ -17,7 +17,7 @@ education, and practice.
 
 | Repository | Description |
 |------------|-------------|
-| 🌍 [FRAMily Community](https://github.com/FRAMily-Community/framily-community) | Community discussions, announcements, ideas, collaboration opportunities, and knowledge exchange within the international FRAM community. |
+| 🌍 [FRAMily Community](https://github.com/FRAMily-Community/framily-community) | Community discussions, announcements, ideas, collaboration opportunities, and knowledge exchange within the international FRAM community. Overview of the community activities and events. |
 | 🧩 [FRAM Model Repository](https://github.com/FRAMily-Community/fram-model-repository) | Community repository for FRAM models, examples, and case studies. |
 | 🎓 [FRAM Learning Material](https://github.com/FRAMily-Community/fram-learning-material) | Educational resources, tutorials, exercises, and teaching materials for learning and teaching FRAM. |
 | 💻 [FRAM Software](https://github.com/FRAMily-Community/fram-software) | Software tools, applications, documentation, and digital resources supporting FRAM research, education, and practice. |
