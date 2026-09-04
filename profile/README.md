@@ -90,13 +90,15 @@ Participation is voluntary, and you may withdraw your consent and unsubscribe at
 
 ### Connect with us
 
-🌐 **Website** → Information Hub 
+🌐 **Website** → Information Hub
+
 [functionalresonance.com](https://functionalresonance.com)
 
 💼 **LinkedIn** → News & Announcements  
 [FRAMily | The International FRAM Community](https://www.linkedin.com/company/framily-community/about/?viewAsMember=true)
 
 🎥 **YouTube** → Videos, Tutorials & Recordings 
+
 [FRAMily Community Channel](https://www.youtube.com/@framily-community)
 
 💬 **Community Discussions** → Technical & Research Discussions  
