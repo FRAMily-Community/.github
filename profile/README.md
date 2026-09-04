@@ -13,6 +13,8 @@ We foster open knowledge exchange, shared learning, collaboration, and
 the responsible development and application of FRAM across research, 
 education, and practice.
 
+FRAMily-GitHub serves as the FRAMily collaboration platform for sharing and discussing FRAM models, case studies, software tools, learning resources, research materials, and technical knowledge.
+
 ## Explore our repositories
 
 | Repository | Description |
